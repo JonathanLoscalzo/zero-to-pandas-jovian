@@ -1,0 +1,7 @@
+jovian
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+opendatasets
